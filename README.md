@@ -1,22 +1,4 @@
-# Boas-vindas ao repositório do projeto App de Receitas!
-
-Para realizar o projeto, atente a cada passo descrito a seguir. Se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
-
-Aqui, você vai encontrar os detalhes de como estruturar o desenvolvimento de seu projeto a partir deste repositório utilizando uma branch específica e um Pull Request para colocar seus códigos.
-
-# Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta e do Manual da Pessoa Estudante da Trybe.
-
-# Entregáveis
-
-<details>
-  <summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
-
-  Para entregar seu projeto, você deverá criar um Pull Request neste repositório.
-
-  Lembre-se de que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog – Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
-</details>
+# Projeto App de Receitas!
 
 <details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
@@ -43,15 +25,6 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   - Utilizar o _React Hook useEffect_.
   - Criar Hooks customizados.
 </details>
-
-<details>
-  <summary><strong>🗓 Data de entrega</strong></summary><br />
-  
-  * Este projeto é em grupo;
-  * Serão `12` dias de projeto;
-  * Data para entrega final do projeto: `11/12/2023 23:59`.
-
-</details><br />
 
 # Orientações
 
